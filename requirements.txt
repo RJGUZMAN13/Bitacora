@@ -2,4 +2,4 @@ streamlit
 pandas
 xlsxwriter
 uuid
-firebase
+firebase-admin
